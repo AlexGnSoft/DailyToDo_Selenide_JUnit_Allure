@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Aug 19 16:00:59 WEST 2022","Fri Aug 19 16:01:08 WEST 2022","9837","","tests.Tests","","tests.Tests","testTrackDailyTasks","Track your tasks",""
+"passed","Fri Aug 19 16:01:23 WEST 2022","Fri Aug 19 16:01:28 WEST 2022","4245","","tests.Tests","","tests.Tests","testDeleteAll","Delete all",""
+"passed","Fri Aug 19 16:01:08 WEST 2022","Fri Aug 19 16:01:14 WEST 2022","5723","","tests.Tests","","tests.Tests","testCreateTasks","Create Daily Tasks",""
+"passed","Fri Aug 19 16:01:14 WEST 2022","Fri Aug 19 16:01:23 WEST 2022","9289","","tests.Tests","","tests.Tests","testUpdateDailyTasks","Update daily tasks",""
